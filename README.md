@@ -1,2 +1,3 @@
-# WeChat-Develop
-简洁的微信开发Demo
+## WeChat-Develop
+
+微信开发
